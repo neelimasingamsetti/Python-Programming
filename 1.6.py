@@ -1,6 +1,6 @@
-a=6;
-b=8;
-c=a%b;
+a=6
+b=8
+c=a%b
 print(c)
 
 OUTPUT
