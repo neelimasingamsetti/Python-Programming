@@ -1,6 +1,6 @@
-b=0;
-c=10;
-a=b/c;
+b=0
+c=10
+a=b/c
 print(a)
 
 OUTPUT
