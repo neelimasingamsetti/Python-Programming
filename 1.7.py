@@ -1,7 +1,7 @@
-x=9;
-y=8;
-c=x+y;
-d=x-y;
+x=9
+y=8
+c=x+y
+d=x-y
 print(c)
 print(d)
 
